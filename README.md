@@ -1,4 +1,4 @@
-# projeto-brusquekids
+# projeto-brusque kids
 Curricularização da Extensão 2026.1 - SI - Projeto Secretaria de Educação 
 # Quiz Brusque Kids
 
