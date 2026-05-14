@@ -34,6 +34,10 @@ Crianças de 4 a 5 anos.
 - Ferramentas de prototipação e design
 
 ---
+## Integrantes
+- Maicon Edras da Silva
+- Eduardo de pinho
+- Kaio Stoco de Oliveira
 
 ## Estrutura do Projeto
 ```tex
